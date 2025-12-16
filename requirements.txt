@@ -1,0 +1,27 @@
+# ------------------------------
+# Core documentation tooling
+# ------------------------------
+sphinx>=7.0
+pydata-sphinx-theme
+myst-parser
+sphinx-design
+sphinxcontrib-bibtex
+sphinx-gallery
+
+# ------------------------------
+# Sphinx extensions / rendering
+# ------------------------------
+matplotlib
+
+# ------------------------------
+# Documentation quality checks
+# ------------------------------
+docutils
+pre-commit
+commitizen
+typos
+
+# ------------------------------
+# Optional but recommended
+# ------------------------------
+linkify-it-py
