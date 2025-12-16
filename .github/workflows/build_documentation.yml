@@ -1,0 +1,54 @@
+# .github/workflows/docs.yml
+# ------------------------------------------------------------- #
+# Build and Deploy BadGradWiki                                  #
+# ------------------------------------------------------------- #
+# This workflow builds the Sphinx documentation and deploys it
+# to GitHub Pages. The site is updated automatically on pushes
+# to the main branch.
+# ------------------------------------------------------------- #
+
+name: Build and Deploy Wiki
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  docs:
+    name: Build and Deploy Documentation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-wiki-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-wiki-
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build documentation with Sphinx
+        run: |
+          sphinx-build -b html docs docs/_build/html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: docs/_build/html

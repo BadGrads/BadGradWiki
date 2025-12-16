@@ -156,7 +156,7 @@ Once you have the SSH key set up and have access to the BadGrads organization, f
 
 1. Fork the **BadGradWiki** repository to your own GitHub account
    (You must be a member of the BadGrads GitHub organization.) This is done by going to the wiki's repository
-   page (`here <https://github.com/BadGrads/BadGradWiki>`_) and clicking the "Fork" button in the upper right corner.
+   page (`here <https://github.com/BadGrads/BadGradWiki>`__) and clicking the "Fork" button in the upper right corner.
 
 2. Clone your fork locally:
 
@@ -177,7 +177,7 @@ Once you have the SSH key set up and have access to the BadGrads organization, f
 
        The branch name should specify what you're working on. This makes it easier to manage multiple contributions.
 
-Congrats! You've got the source code set up locally. Now you can start setting up the local environement and
+Congrats! You've got the source code set up locally. Now you can start setting up the local environment and
 get editing!
 
 Setting Up the Environment
@@ -338,64 +338,101 @@ This will commit your changes to the local repository.
     okay to commit many times while working on a feature, but each commit should represent a logical unit of work. This makes
     it easier to identify specific changes later on.
 
+When you're ready to send you code changes back to your forked repository on GitHub, you'll push your branch:
+
+.. code-block:: bash
+
+   git push origin docs/my-awesome-contribution
+
+This will update the branch on your fork with the commits you've made locally.
+
 Pre-Commit Checks & Commitizen
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 In order to maintain high-quality documentation, we have a few automated checks that run
 whenever you make a commit. These checks help ensure that the documentation is well-formatted,
 free of typos, and builds correctly. These are handled using the ``pre-commit`` framework, which you can
-read about `here <https://pre-commit.com/>`_.
+read about `here <https://pre-commit.com/>`__.
 
 When you commit using ``git commit -m 'my message'``, these checks will automatically run before the commit is finalized.
 If any issues are found, the commit will be aborted, and you'll need to fix the issues before trying again. For example,
 
+.. code-block:: bash
 
+    git add --all
+    git commit -m "docs: fix typo in teaching resources"
 
-
-
-
-
-
-This repository uses **Commitizen** to enforce clear, consistent commit messages.
-
-Commit messages should follow the Conventional Commits format, for example:
-
-.. code-block:: text
-
-   docs: add notes on prelim exam structure
-   fix: correct broken teaching resource links
-
-Pre-commit hooks are enabled to:
-- Check formatting
-- Catch typos
-- Ensure the docs build cleanly
-
-To commit your changes:
+will trigger pre-commit checks:
 
 .. code-block:: bash
 
-   git add .
-   git commit
+    [INFO] Initializing environment for https://github.com/commitizen-tools/commitizen.
+    [INFO] Installing environment for https://github.com/pre-commit/pre-commit-hooks.
+    [INFO] Once installed this environment will be reused.
+    [INFO] This may take a few minutes...
+    [INFO] Installing environment for https://github.com/crate-ci/typos.
+    [INFO] Once installed this environment will be reused.
+    [INFO] This may take a few minutes...
+    check for merge conflicts................................................Passed
+    check yaml...............................................................Passed
+    check toml...............................................................Passed
+    fix end of files.........................................................Failed
+    - hook id: end-of-file-fixer
+    - exit code: 1
+    - files were modified by this hook
 
-Follow the prompts if Commitizen asks for clarification.
+    Fixing wiki/source/grad_jobs/index.rst
+    Fixing .idea/material_theme_project_new.xml
+    Fixing .idea/misc.xml
+    Fixing .idea/copilot.data.migration.ask2agent.xml
+    Fixing .gitignore
+    Fixing .idea/BadGradWiki.iml
+    Fixing .pre-commit-config.yaml
+    Fixing .idea/copilot.data.migration.agent.xml
+    Fixing wiki/source/make.bat
+    Fixing .idea/vcs.xml
+    Fixing .idea/copilot.data.migration.ask.xml
+    Fixing wiki/Makefile
+    Fixing .idea/inspectionProfiles/profiles_settings.xml
+    Fixing .idea/modules.xml
+    Fixing .idea/inspectionProfiles/Project_Default.xml
+    Fixing requirements.txt
+    Fixing wiki/source/conf.py
 
-----
+    trim trailing whitespace.................................................Passed
+    typos....................................................................Failed
+    - hook id: typos
+    - files were modified by this hook
+
+In most cases, the issues are **fixed automatically** by the pre-commit hooks. You can simply re-stage the modified files and try committing again.
+In some cases (if you broke something), you'll get a persistent error message that you'll need to address manually.
+
+One of these pre-commit hooks is **Commitizen**, which helps enforce clear and consistent commit messages. In order for
+your commit to be accepted, you'll need to follow the `Conventional Commits <https://www.conventionalcommits.org/en/v1.0.0/>`_
+specification when writing your commit messages.
+
+This is usually pretty simple. Here are some examples of valid commit messages:
+
+- ``docs: add new section on teaching resources``
+- ``fix: correct typo in department roles page``
+- ``chore: update dependencies for Sphinx extensions``
+
+If your commit message doesn't follow the specification, Commitizen will provide feedback on how to fix it.
+
 
 Submitting a Pull Request
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Once your changes are committed:
+Once your changes are committed and pushed to your fork, the final step is to submit a pull request (PR)
+to the main BadGradWiki repository. This is done by going to the repository page on GitHub and clicking the "New Pull Request" button.
 
-1. Push your branch to your fork:
+When creating the PR, make sure to:
 
-   .. code-block:: bash
-
-      git push origin docs/my-awesome-contribution
-
-2. Open a pull request (PR) against the main BadGradWiki repository
-3. Include a clear description of what you changed and why
+1. Open a pull request (PR) against the main BadGradWiki repository
+2. Include a clear description of what you changed and why
 
 Wiki administrators will review your PR and may:
+
 - Ask clarifying questions
 - Suggest edits
 - Request small changes
