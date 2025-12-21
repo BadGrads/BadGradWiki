@@ -1,0 +1,8 @@
+.. _gsps:
+=========================================
+Graduate Student - Post-Doc Social
+=========================================
+
+Each week, traditionally on Friday afternoons, we host an hour-long seminar that's explicitly open to only graduate students and postdocs (including visiting students or postdocs), but is not open to any faculty. The idea is to create a space where we students / postdocs can come together and share ideas, practice presentations, and build a community among ourselves without the stress / inhibitions / et cetera that comes along with the involvement of full professors. You can certainly invite undergrads to the seminars as well, if there's interest.
+
+The long-standing tradition is to schedule one grad student and one postdoc to each give a short presentation with time for questions after each. The GSPS coordinator's job is to make sure we fill up the schedule of presenters, maintain the web page with the talk schedule, announce the seminar each week over the student and postdoc email lists and make sure attendance stays healthy, introduce the speakers each time, reserve the room, and be a host for the event. In the fall, it's a good idea to sign people up for the whole fall semester plus January; then in January, sign people up for the rest of the spring. (Also in the fall, try to get the email addresses of new postdocs to contact them as well, because they often have just arrived and aren't on the postdocs list yet but are interested in giving talks.) People sometimes like to go out for beer afterwards, and in some past years there have been funds for beer and snacks. Please see the GSPS web page for more description/motivation of the seminar series.

@@ -1,0 +1,7 @@
+/* Rounds the GitHub avatar images */
+img.inline-avatar {
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 5px;
+    border: 1px solid #eee;
+}
