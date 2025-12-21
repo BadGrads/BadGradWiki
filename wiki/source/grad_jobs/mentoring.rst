@@ -1,0 +1,6 @@
+.. _grad_mentoring:
+=======================================
+Graduate Student Mentoring Coordinator
+=======================================
+
+The Mentor Master oversees the mentor system; look at that page or the detailed list of duties for more details. This job should be passed on in June rather than August. In late June/early July, the Mentor Master asks students to volunteer to act as mentors to incoming students, then (with input from the previous year's prospective hosting committee) pairs volunteer mentors with mentees. The Mentor Master holds a mentor/mentee kickoff lunch for incoming students the day before the Graduate Division's orientation, and a similar lunch for second-year students a few weeks into the school-year. Through the rest of the year, the Mentor Master's responsibility is to keep track of significant events in first- and second-year's schedules (e.g. upcoming 201 midterm, choosing next semester's classes), and send appropriately-timed reminders to the mentors to make arrangements to meet with their mentees. The Mentor Master checks in with mentees at the end of each semester to make sure the pairing is working, and also acts as back-up mentor if a mentee needs “menting” and their mentor is unavailable.
