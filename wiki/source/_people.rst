@@ -49,3 +49,18 @@
 .. |EllaChevalier| image:: https://github.com/ellachevalier.png
    :width: 22px
    :class: inline-avatar
+.. |SavannahCary| image:: https://github.com/scary22.png
+   :width: 22px
+   :class: inline-avatar
+.. |KennethLin| image:: https://github.com/kwlin0.png
+   :width: 22px
+   :class: inline-avatar
+.. |HowardHuang| image:: https://github.com/HowardHTHuang.png
+    :width: 22px
+    :class: inline-avatar
+.. |PeterMa| image:: https://github.com/PetchMa.png
+    :width: 22px
+    :class: inline-avatar
+.. |KatieSharpe| image:: https://github.com/katiesharpe.png
+    :width: 22px
+    :class: inline-avatar
