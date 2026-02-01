@@ -22,6 +22,7 @@ Current Job Assignments
      - People
    * - Small Council Reps
      - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+     - |SavanahCary| `Savanah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
@@ -59,26 +60,30 @@ Current Job Assignments
      - People
    * - Prospective Visit Planning
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
-       |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
+       |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
+       |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Ay 375 GSIs
      - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
    * - MPS Scholars Program
      -
    * - Mentoring System Grandmentors
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+     - |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Graduate Student Mentors
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
-       |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__
+       |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
+       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__,
    * - Outreach Coordinator
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
-       |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__
+       |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
+       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__,
    * - Astro Night Coordinator
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
@@ -114,6 +119,7 @@ Current Job Assignments
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__
    * - Grad Student/Postdoc Research Seminar (GSPS)
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+     - |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
    * - ArXiV Coordinator(s)
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
    * - TAZTE / TAFT
@@ -139,6 +145,7 @@ Current Job Assignments
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Social Hour Coordinator
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
+     - |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
    * - Sierra Conference
      -
    * - Board Game Night
