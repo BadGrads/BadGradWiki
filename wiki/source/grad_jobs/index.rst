@@ -67,8 +67,8 @@ Current Job Assignments
    * - MPS Scholars Program
      -
    * - Mentoring System Grandmentors
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
-     - |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
+       |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Graduate Student Mentors
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
