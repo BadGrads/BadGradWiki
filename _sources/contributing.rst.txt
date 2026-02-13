@@ -162,7 +162,7 @@ Once you have the SSH key set up and have access to the BadGrads organization, f
 
    .. code-block:: bash
 
-      git clone https://github.com/<your-username>/BadGradWiki.git
+      git clone https://github.com/badgrads/BadGradWiki.git
       cd BadGradWiki
 
    This creates a local copy of the repository on your machine that you can manipulate as you see fit.

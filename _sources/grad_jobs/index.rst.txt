@@ -91,7 +91,7 @@ Current Job Assignments
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__
-   * - BadGradWiki Admin
+   * - BadGradWiki Wrangler
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__,
