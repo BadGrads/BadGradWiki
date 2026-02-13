@@ -22,7 +22,7 @@ Current Job Assignments
      - People
    * - Small Council Reps
      - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
-       |SavanahCary| `Savanah Cary <https://github.com/scary22>`__
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
@@ -76,14 +76,14 @@ Current Job Assignments
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
-       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Outreach Coordinator
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
-       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Astro Night Coordinator
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
@@ -145,7 +145,7 @@ Current Job Assignments
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Social Hour Coordinator
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
-       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Sierra Conference
      -
    * - Board Game Night
