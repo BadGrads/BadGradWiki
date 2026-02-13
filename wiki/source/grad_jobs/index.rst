@@ -83,7 +83,7 @@ Current Job Assignments
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
-       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__,
+       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
    * - Astro Night Coordinator
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
