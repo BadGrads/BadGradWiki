@@ -37,7 +37,7 @@ Current Job Assignments
    * - BADGrads Slack Admins
      - Everyone!
    * - Grad Student Admissions
-     - |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__, 
+     - |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        Kenneth Lin
@@ -164,30 +164,80 @@ Job Pages
 Each grad job has its own subpage with more detailed information about the role, expectations, and advice from
 past holders of the position. You can explore these pages to learn more about each job and what it entails.
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Grad Jobs Subpages
+Community & Social
+^^^^^^^^^^^^^^^^^^
 
-    arxiv
+.. toctree::
+    :maxdepth: 1
+
+    happyhour
+    movie_night
+    ski_trip
+    grad_snacks
+    tshirts
+
+
+DEI / Identity / Advocacy
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+    :maxdepth: 1
+
+    dei_advisors
+    queer_coordinators
+    POWER
+    UAW2865
+
+
+Academic / Department Events
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+    :maxdepth: 1
+
     astro_night
     colloquium_lunch
-    dei_advisors
-    grad_admissions
-    grad_snacks
-    gsps
-    happyhour
-    mentoring
-    movie_night
-    mps_375
-    POWER
     projectionists
+
+
+Recruitment / Admissions
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+    :maxdepth: 1
+
+    grad_admissions
     prospective_visit
-    queer_coordinators
-    ski_trip
+
+
+Mentorship / Student Support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+    :maxdepth: 1
+
+    mentoring
+    undergrad_liaison
+
+
+Department Logistics / Admin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+    :maxdepth: 1
+
+    arxiv
+    gsps
+    mps_375
     small_council
     swps
     taft
-    tshirts
-    UAW2865
-    undergrad_liaison
+
+
+Outreach
+^^^^^^^^
+
+.. toctree::
+    :maxdepth: 1
+
     outreach/index
