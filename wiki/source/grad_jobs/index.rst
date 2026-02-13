@@ -144,8 +144,8 @@ Current Job Assignments
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Social Hour Coordinator
-     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
-     - |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
+     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
+       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
    * - Sierra Conference
      -
    * - Board Game Night
