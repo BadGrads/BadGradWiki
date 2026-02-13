@@ -22,7 +22,7 @@ Current Job Assignments
      - People
    * - Small Council Reps
      - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
-     - |SavanahCary| `Savanah Cary <https://github.com/scary22>`__
+       |SavanahCary| `Savanah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
