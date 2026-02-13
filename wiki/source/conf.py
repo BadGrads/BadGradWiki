@@ -36,6 +36,7 @@ extensions = [
     "sphinx_design",
     "matplotlib.sphinxext.plot_directive",
     "sphinxcontrib.bibtex",
+    "sphinx_last_updated_by_git",
     # "sphinx_gallery.gen_gallery", (Currently disabled but can be re-enabled later)
 ]
 
