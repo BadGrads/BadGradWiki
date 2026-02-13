@@ -37,8 +37,10 @@ Current Job Assignments
    * - BADGrads Slack Admins
      - Everyone!
    * - Grad Student Admissions
-     - |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
-       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
+     - |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__, 
+       |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
+       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
+       Kenneth Lin
 
 .. list-table:: Social Justice
    :widths: 40 60
