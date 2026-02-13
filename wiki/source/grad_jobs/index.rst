@@ -118,8 +118,8 @@ Current Job Assignments
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__
    * - Grad Student/Postdoc Research Seminar (GSPS)
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
-     - |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
+       |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
    * - ArXiV Coordinator(s)
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
    * - TAZTE / TAFT
