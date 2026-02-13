@@ -76,7 +76,7 @@ Current Job Assignments
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
-       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__,
+       |SavannahCary| `Savanah Cary <https://github.com/scary22>`__
    * - Outreach Coordinator
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
