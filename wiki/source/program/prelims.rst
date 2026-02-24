@@ -14,7 +14,7 @@ They include lecture notes, videos, and practice materials from Berkeley courses
    `Astrophysical Fluid Dynamics <https://peterma.ca/teaching/#fluid>`__ — Peter's fluid notes (Chung-Pei Ma), including waves, shocks, instabilities, viscosity, and MHD.
 
 **Stars**
-   `Stellar Structure and Evolution <https://peterma.ca/teaching/#stars>`__ — Course notes and videos (Raffaella Margutti) covering hydrostatic equilibrium, nuclear fusion, radiative transfer, and stellar life cycles.
+   `Stellar Structure and Evolution <https://peterma.ca/teaching/#stars>`__ — Peter's rough course notes and videos (Raffaella Margutti) covering hydrostatic equilibrium, nuclear fusion, radiative transfer, and stellar life cycles.
 
 **Galaxies**
-   `Galactic Dynamics and Stellar Populations <https://peterma.ca/teaching/#galaxy>`__ — Plot-driven notes (Dan Stark) on the Milky Way, stellar dynamics, galaxy formation, and high-redshift galaxies.
+   `Galactic Dynamics and Stellar Populations <https://peterma.ca/teaching/#galaxy>`__ — Peter's plot-driven notes (Dan Stark) on the Milky Way, stellar dynamics, galaxy formation, and high-redshift galaxies.
