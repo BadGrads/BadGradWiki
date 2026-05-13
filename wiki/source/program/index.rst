@@ -195,6 +195,7 @@ Life After the PhD
    mentoring
    pay
    reimbursement
+   fellowships
    travel_funds
    posters
    jobs
