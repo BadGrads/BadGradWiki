@@ -116,6 +116,13 @@ See :ref:`contributing` for details on how to get involved.
 
 ----
 
+Additional Resources
+--------------------
+
+* :doc:`Science & Computing <science/index>` — computing clusters, remote observing, and other technical guides for doing science in the department.
+
+----
+
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -124,6 +131,7 @@ See :ref:`contributing` for details on how to get involved.
    teaching/index
    grad_life/index
    program/index
+   science/index
    contributing
 
 Indices and Search
