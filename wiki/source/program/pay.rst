@@ -12,7 +12,7 @@ Pay and Compensation
 
 As of 2022, the Graduate Student Affairs Coordinator (Yasasha Ridel in 2022) provides an individualized funding schedule to each graduate student. Your job is to read this, confirm its veracity, and reply affirming so or provide corrections. Though the graduate students spent several years working with the faculty to get this better pay system (which solved a lot of issues), to guarantee your proper payment, it is your responsibility to track your funding.
 
-Your pay schedule depends on what type of funding you have. For most GSI/GSR positions, you will receive payments at the beginning of each month. Department fellowships disburse payments in lump sums at the beginning of the semester, while, e.g., NSF fellowships disburse monthly payments like GSI/GSR stipends. Note that electronic fund transfers for fellowships and GSI positions differ, so be sure to set them up separately if you don't want a paper check.
+Your pay schedule depends on what type of funding you have. For most GSI / GSR positions, you will receive payments at the beginning of each month. Department fellowships disburse payments in lump sums at the beginning of the semester, while, e.g., NSF fellowships disburse monthly payments like GSI / GSR stipends. Note that electronic fund transfers for fellowships and GSI positions differ, so be sure to set them up separately if you don't want a paper check.
 
 Pay attention to the tax witholdings from your payments---fellowship payments do not withold taxes, which can be a large surprise when you prepare your taxes (~$4,000).
 
@@ -30,7 +30,7 @@ The `graduate student handbook`_ states the following regarding graduate student
 
    *Updated 3 February 2026*
 
-Check other sections of the handbook for more around pay, and the Taxes section of the wiki and handbook for more about doing your financial civic duty.
+Check other sections of the handbook for more information regarding pay and filing taxes.
 
 If you experience a financial emergency, you may be eligible for `a short-term emergency loan`_ from the university's Financial Aid and Scholarships Office. These loans are up to $3,000 with zero interest and a payment deadline of approimately 60 days, but require a $20 application fee (also due at the payment deadline of the principal loan) and may be unavailable between the end and start of consecutive semesters.
 
