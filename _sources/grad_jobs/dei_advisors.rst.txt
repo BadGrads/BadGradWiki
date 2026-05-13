@@ -1,3 +1,5 @@
+:show_git_badge: true
+
 .. _dei_advisors_page:
 ==================================
 Department Climate / DEI Advisors

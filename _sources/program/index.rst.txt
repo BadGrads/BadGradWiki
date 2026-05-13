@@ -104,6 +104,14 @@ Academic Life
       The department's formal mentor-mentee program pairing new
       students with more senior grads.
 
+   .. grid-item-card:: Fellowships and Funding Opportunities
+      :shadow: md
+      :link: fellowships
+      :link-type: doc
+
+      A list of known fellowships for graduate students, with
+      advice on how to apply and when to start preparing.
+
 ----
 
 Money & Logistics
@@ -187,6 +195,7 @@ Life After the PhD
    mentoring
    pay
    reimbursement
+   fellowships
    travel_funds
    posters
    jobs
