@@ -26,6 +26,8 @@ The graduate student handbook states the following regarding graduate student pa
 
    Note that graduate students do not typically get paid evenly throughout the year (i.e., it is not correct to simply divide the annual salary by 12 to get a monthly amount). Certain fellowships, teaching pay, research pay, and summer vs. academic year pay are often distributed unevenly and on different schedules throughout the year.  This is particularly important for first-year students as they adjust to finances in grad school. Please contact the GSAO with any specific questions about funding.
 
+   *Updated 3 February 2026*
+
 
 .. Handbook statement (2022)
 .. The Astronomy Department works to guarantee a minimal level of funding for each graduate student for the duration of their time in the program. Most students are supported by some combination of GSI and GSR appointments, as well as Fellowships. The total amount of financial support is reviewed annually by the Astronomy Faculty, typically around the time of graduate admissions. The amount of support is affected by a number of factors, including cost of living, competitiveness with peer institutions, support offered in other MPS departments, and the funding landscape of the University, federal grants, etc. Annual increases in support are not guaranteed, though the faculty make good faith efforts to provide the highest level of support possible in light of the above factors. Each spring, the Department Chair will notify the graduate students of the level of support for the next academic year.
