@@ -8,9 +8,7 @@ The Preliminary Examination
 
 .. note::
 
-   This page reproduces graduate-student-maintained guidance and a summary of department policy from the legacy ``prelim - BADGrads`` handout. It does **not** replace the official `Student Handbook (Aug 8, 2023) <https://docs.google.com/document/d/1AXXY5OXicQGNIi7OKjoCD5HYGwQ8yNsiHXxJ_f6EVEo/edit?usp=sharing>`__ or departmental communications. When in doubt, follow the handbook and instructions from the Head Graduate Adviser (HGA).
-
-:download:`Download the original PDF handout <prelim_BADGrads.pdf>`
+   This page reproduces graduate-student-maintained guidance and a summary of department policy from the legacy ``prelim - BADGrads`` handout (the same text that used to circulate as a short PDF). It does **not** replace the official `Student Handbook (Aug 8, 2023) <https://docs.google.com/document/d/1AXXY5OXicQGNIi7OKjoCD5HYGwQ8yNsiHXxJ_f6EVEo/edit?usp=sharing>`__ or departmental communications. When in doubt, follow the handbook and instructions from the Head Graduate Adviser (HGA). PDFs are not stored in this repository; use this page as the canonical copy.
 
 ----
 
