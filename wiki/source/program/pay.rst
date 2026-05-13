@@ -18,7 +18,9 @@ Pay attention to the tax witholdings from your payments---fellowship payments do
 
 The department has an emergency support fund for graduate students experiencing pay issues. This should be your first resource rather than an emergency loan from the university. Please contact the chair, head graduate advisor, and / or the student affairs coordinator for access to this fund.
 
-The graduate student handbook states the following regarding graduate student pay.
+The `graduate student handbook`_ states the following regarding graduate student pay.
+
+.. _graduate student handbook: https://docs.google.com/document/d/1AXXY5OXicQGNIi7OKjoCD5HYGwQ8yNsiHXxJ_f6EVEo/edit?usp=sharing
 
    The Astronomy Department works to guarantee a minimal level of funding for each graduate student for the duration of their time in the program. Most students are supported by some combination of GSI and GSR appointments, as well as Fellowships.  The total amount of financial support is reviewed annually by the Astronomy Faculty, typically around the time of graduate admissions.  The amount of support is affected by a number of factors, including cost of living, competitiveness with peer institutions, support offered in other MPS departments, and the funding landscape of the University, federal grants, etc.  Annual increases in support are not guaranteed, though the faculty make good faith efforts to provide the highest level of support possible in light of the above factors.  Each spring, the Department Chair will notify the graduate students of the level of support for the next academic year.
 
