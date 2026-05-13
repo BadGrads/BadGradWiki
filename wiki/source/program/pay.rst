@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _pay:
 
-=================================
-Astronomy Night Coordinator
-=================================
+====================
+Pay and Compensation
+====================
 
 .. admonition:: Under Construction
 

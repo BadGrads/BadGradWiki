@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _remote_observing:
 
-=================================
-Astronomy Night Coordinator
-=================================
+================
+Remote Observing
+================
 
 .. admonition:: Under Construction
 

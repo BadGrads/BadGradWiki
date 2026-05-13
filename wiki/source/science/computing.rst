@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _computing:
 
-=================================
-Astronomy Night Coordinator
-=================================
+===================
+Computing Resources
+===================
 
 .. admonition:: Under Construction
 

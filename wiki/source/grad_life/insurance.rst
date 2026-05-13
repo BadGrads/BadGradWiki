@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _insurance:
 
-=================================
-Astronomy Night Coordinator
-=================================
+================
+Health Insurance
+================
 
 .. admonition:: Under Construction
 

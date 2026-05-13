@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _getting_set_up:
 
-=================================
-Astronomy Night Coordinator
-=================================
+==============
+Getting Set Up
+==============
 
 .. admonition:: Under Construction
 

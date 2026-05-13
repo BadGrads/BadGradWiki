@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _thesis:
 
-=================================
-Astronomy Night Coordinator
-=================================
+==========
+The Thesis
+==========
 
 .. admonition:: Under Construction
 

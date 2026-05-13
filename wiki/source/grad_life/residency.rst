@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _residency:
 
-=================================
-Astronomy Night Coordinator
-=================================
+======================
+California Residency
+======================
 
 .. admonition:: Under Construction
 

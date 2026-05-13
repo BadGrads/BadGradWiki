@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _qual:
 
-=================================
-Astronomy Night Coordinator
-=================================
+===========================
+The Qualifying Examination
+===========================
 
 .. admonition:: Under Construction
 

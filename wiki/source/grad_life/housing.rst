@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _housing:
 
-=================================
-Astronomy Night Coordinator
-=================================
+===================
+Housing in Berkeley
+===================
 
 .. admonition:: Under Construction
 
