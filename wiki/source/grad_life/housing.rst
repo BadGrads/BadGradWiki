@@ -1,3 +1,5 @@
+:show_git_badge: true
+
 .. _housing:
 
 ===================

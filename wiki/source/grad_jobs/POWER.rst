@@ -1,3 +1,5 @@
+:show_git_badge: true
+
 .. _power_bay_area:
 
 ====================================

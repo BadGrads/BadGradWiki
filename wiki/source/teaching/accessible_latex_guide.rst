@@ -1,3 +1,5 @@
+:show_git_badge: true
+
 .. include:: ../_people.rst
 
 .. _latex_accessibility:

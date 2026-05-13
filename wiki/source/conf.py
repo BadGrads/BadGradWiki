@@ -16,6 +16,7 @@ import sys
 import matplotlib  # noqa: F401
 
 sys.path.insert(0, os.path.abspath("../.."))
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
 # -- Project information -----------------------------------------------------
 
@@ -37,6 +38,7 @@ extensions = [
     "matplotlib.sphinxext.plot_directive",
     "sphinxcontrib.bibtex",
     "sphinx_last_updated_by_git",
+    "_ext.git_last_modified",
     # "sphinx_gallery.gen_gallery", (Currently disabled but can be re-enabled later)
 ]
 

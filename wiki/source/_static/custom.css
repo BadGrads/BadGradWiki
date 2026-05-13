@@ -1,3 +1,27 @@
+/* Last-edited-by git badge (see _ext/git_last_modified.py) */
+.git-last-modified {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.git-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.25em 0.8em;
+    border-radius: 2em;
+    font-size: 0.82em;
+    background-color: var(--pst-color-surface, #f6f8fa);
+    border: 1px solid var(--pst-color-border, #d0d7de);
+    color: var(--pst-color-text-muted, #57606a);
+    text-decoration: none;
+}
+
+.git-badge strong {
+    color: var(--pst-color-text-base, #24292f);
+    font-weight: 600;
+}
+
 /* Rounds the GitHub avatar images */
 img.inline-avatar {
     border-radius: 50%;
