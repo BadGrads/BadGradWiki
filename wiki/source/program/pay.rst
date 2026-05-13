@@ -32,6 +32,6 @@ The `graduate student handbook`_ states the following regarding graduate student
 
 Check other sections of the handbook for more around pay, and the Taxes section of the wiki and handbook for more about doing your financial civic duty.
 
-*Old*
+If you experience a financial emergency, you may be eligible for `a short-term emergency loan`_ from the university's Financial Aid and Scholarships Office. These loans are up to $3,000 with zero interest and a payment deadline of approimately 60 days, but require a $20 application fee (also due at the payment deadline of the principal loan) and may be unavailable between the end and start of consecutive semesters.
 
-If you should run low on funds and need $ right away for miscellaneous expenses (the payroll office has been known to mess up pay checks from time to time), note that the university offers $775 emergency loans with 0 interest for 60 day periods, with a $20 application fee. Go to 212 Sproul to fill out the form between 9am-12:15pm M-Th, and pick up your check by 1 the same day!
+.. _a short-term emergency loan: https://financialaid.berkeley.edu/types-of-aid-at-berkeley/loans/short-term-emergency-loan/
