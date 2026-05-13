@@ -6,7 +6,7 @@
 Pay and Compensation
 ====================
 
-As of 2022, the Graduate Student Affairs Coordinator (Yasasha Ridel in 2022) provides an individualized funding schedule to each graduate student. Your job is to read this, confirm its veracity, and reply affirming so or provide corrections. Though the graduate students spent several years working with the faculty to get this better pay system (which solved a lot of issues), to guarantee your proper payment, it is your responsibility to track your funding.
+As of 2026, the Graduate Student Affairs Coordinator (formerly Yasasha Ridel, with Johnny Morales and Nisha Bhatia temporarily substituting) provides an individualized funding schedule to each graduate student. Your job is to read this, confirm its veracity, and reply affirming so or provide corrections. Though the graduate students spent several years working with the faculty to get this better pay system (which solved a lot of issues), to guarantee your proper payment, it is your responsibility to track your funding.
 
 Your pay schedule depends on what type of funding you have. For most GSI / GSR positions, you will receive payments at the beginning of each month. Department fellowships disburse payments in lump sums at the beginning of the semester, while, e.g., NSF fellowships disburse monthly payments like GSI / GSR stipends. Note that electronic fund transfers for fellowships and GSI positions differ, so be sure to set them up separately if you don't want a paper check.
 
