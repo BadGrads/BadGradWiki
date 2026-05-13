@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _posters:
 
-=================================
-Astronomy Night Coordinator
-=================================
+==================
+Conference Posters
+==================
 
 .. admonition:: Under Construction
 

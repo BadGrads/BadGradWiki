@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _reimbursement:
 
-=================================
-Astronomy Night Coordinator
-=================================
+==============
+Reimbursements
+==============
 
 .. admonition:: Under Construction
 

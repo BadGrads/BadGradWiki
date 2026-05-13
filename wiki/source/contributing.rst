@@ -154,11 +154,23 @@ Using an SSH key allows you to interact with GitHub securely without repeatedly 
 
 Once you have the SSH key set up and have access to the BadGrads organization, follow these steps:
 
-1. Fork the **BadGradWiki** repository to your own GitHub account
+1. (Optional) Fork the **BadGradWiki** repository to your own GitHub account
    (You must be a member of the BadGrads GitHub organization.) This is done by going to the wiki's repository
    page (`here <https://github.com/BadGrads/BadGradWiki>`__) and clicking the "Fork" button in the upper right corner.
 
+   Alternatively, you can clone the repository directly without forking it; however, it is important to remember
+   that you will not be able to push changes to the ``main`` branch of the remote repository. If you use a direct clone,
+   ensure that you make a branch for your changes and push to that branch, then submit a pull request from that branch to the main repository.
+
+   To clone the repo, you can use the SSH URL:
+
+   .. code-block:: bash
+
+        git clone git@github.com/BadGrads/BadGradWiki.git
+
 2. Clone your fork locally:
+
+   If you created a fork, clone your forked repository:
 
    .. code-block:: bash
 
@@ -344,7 +356,8 @@ When you're ready to send you code changes back to your forked repository on Git
 
    git push origin docs/my-awesome-contribution
 
-This will update the branch on your fork with the commits you've made locally.
+This will update the branch on your fork with the commits you've made locally. If you cloned directly from the
+main repository, you can push to your branch there instead.
 
 Pre-Commit Checks & Commitizen
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

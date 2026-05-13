@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _advising_students:
 
-=================================
-Astronomy Night Coordinator
-=================================
+=================
+Advising Students
+=================
 
 .. admonition:: Under Construction
 

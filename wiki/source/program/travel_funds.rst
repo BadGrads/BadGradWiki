@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _travel_funds:
 
-=================================
-Astronomy Night Coordinator
-=================================
+============
+Travel Funds
+============
 
 .. admonition:: Under Construction
 

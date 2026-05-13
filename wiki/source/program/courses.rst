@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _courses:
 
-=================================
-Astronomy Night Coordinator
-=================================
+=======
+Courses
+=======
 
 .. admonition:: Under Construction
 

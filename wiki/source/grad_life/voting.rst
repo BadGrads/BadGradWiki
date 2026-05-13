@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _voting:
 
-=================================
-Astronomy Night Coordinator
-=================================
+======================
+Voting in California
+======================
 
 .. admonition:: Under Construction
 

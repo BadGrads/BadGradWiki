@@ -1,8 +1,8 @@
-.. _astro_night:
+.. _prelim:
 
-=================================
-Astronomy Night Coordinator
-=================================
+===========================
+The Preliminary Examination
+===========================
 
 .. admonition:: Under Construction
 
