@@ -64,3 +64,9 @@
 .. |KatieSharpe| image:: https://github.com/katiesharpe.png
     :width: 22px
     :class: inline-avatar
+.. |ZiruiZhang| image:: https://github.com/ZAKIRAM0.png
+    :width: 22px
+    :class: inline-avatar
+.. |AsterWinkler| image:: https://github.com/AsterWinkler.png
+    :width: 22px
+    :class: inline-avatar
