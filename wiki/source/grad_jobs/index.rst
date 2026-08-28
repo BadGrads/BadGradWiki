@@ -15,11 +15,11 @@ Current Job Assignments
 -----------------------
 
 .. list-table:: Reps
-   :widths: 35 15 50
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
-     - Needed\*
+     - #\*
      - People
    * - Small Council Reps
      - 2
@@ -48,11 +48,11 @@ Current Job Assignments
      -
 
 .. list-table:: Department Service
-   :widths: 35 15 50
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
-     - Needed\*
+     - #\*
      - People
    * - Prospective Visit Planning
      - 1+3
@@ -80,18 +80,18 @@ Current Job Assignments
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
 
 .. list-table:: Outreach
-   :widths: 35 15 50
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
-     - Needed\*
+     - #\*
      - People
    * - Mentoring System Grandmentors
      - 1
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Graduate Student Mentors
-     - N first-years
+     - N\ :sub:`1st-yrs`
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
@@ -127,11 +127,11 @@ Current Job Assignments
      -
 
 .. list-table:: Talks, Teas, & Get-Togethers
-   :widths: 35 15 50
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
-     - Needed\*
+     - #\*
      - People
    * - Colloquium Projectionist
      - 2-4
@@ -169,11 +169,11 @@ Current Job Assignments
      -
 
 .. list-table:: Fun
-   :widths: 35 15 50
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
-     - Needed\*
+     - #\*
      - People
    * - Movie Night
      -
