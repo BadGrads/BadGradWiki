@@ -23,23 +23,18 @@ Current Job Assignments
      - People
    * - Small Council Reps
      - 2
-     - |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
-       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
+     - |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers
      - 2
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
-       |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
+     - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
    * - UAW2865 (GSI/GSR Union) Steward/Organizer
      - 1+2
-     - |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__,
-       |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__,
+     - |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__
    * - Grad Student Admissions
      - 1+3
-     - |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
-       |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
-       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
-       Kenneth Lin
+     - |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
+       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
    * - Undergraduate Liaison
      - 1
      - |SaahitMogan| `Saahit Mogan <https://github.com/saahitmog>`__
@@ -65,9 +60,7 @@ Current Job Assignments
    * - BadGradWiki Wrangler
      - 1+3
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
-       |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
-       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__,
-       |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
+       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - T-shirts
      - 1
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
@@ -95,12 +88,11 @@ Current Job Assignments
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
-       |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Outreach Coordinator
-     - ?+?
+     - 5+
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
@@ -135,14 +127,12 @@ Current Job Assignments
      - People
    * - Colloquium Projectionist
      - 2-4
-     - |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
-       |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
+     - |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__
    * - Grad Snacks with Colloquium Speaker
      - 2
      - |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
-       |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Grad Student/Postdoc Research Seminar (GSPS)
@@ -159,11 +149,6 @@ Current Job Assignments
      - 2
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
-   * - Queer Grads Social Coordinator/s
-     - ?
-     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
-       |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
-       |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
    * - AstroCDS
      - ?
      -
@@ -183,6 +168,9 @@ Current Job Assignments
      -
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+   * - Queer Grads Social Coordinator/s
+     - 2
+     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__
    * - Sierra Conference
      -
      -
@@ -191,6 +179,13 @@ Current Job Assignments
      -
 
 \* *total*, *range*, or *leads + members*
+
+.. dropdown:: Previous Years' Job Assignments
+   :icon: history
+
+   Archived job assignments from past academic years.
+
+   - :doc:`2025-2026 <previous_years/2025_2026>`
 
 ----
 
@@ -439,3 +434,4 @@ Outreach
    swps
    taft
    outreach/index
+   previous_years/2025_2026
