@@ -24,11 +24,11 @@ Current Job Assignments
    * - Small Council Reps
      - 2
      - |SavannahCary| `Savannah Cary <https://github.com/scary22>`__,
-     - |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Department Climate + DEI Advisers
      - 2
      - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
-     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__
+       |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__
    * - UAW2865 (GSI/GSR Union) Steward/Organizer
      - 1+2
      - |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__,
