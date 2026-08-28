@@ -185,5 +185,8 @@ Job Assignments
    * - Board Game Night
      -
      -
+   * - Cosmic Garden
+     - 2+2
+     -
 
 \* *total*, *range*, or *leads + members*
