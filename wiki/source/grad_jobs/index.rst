@@ -23,7 +23,7 @@ Current Job Assignments
      - People
    * - Small Council Reps
      - 2
-     - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+     - |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers
      - 2
@@ -76,7 +76,7 @@ Current Job Assignments
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
    * - Respect is Part of Research Facilitators
      - 2
-     - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+     - |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
 
 .. list-table:: Outreach
@@ -93,7 +93,7 @@ Current Job Assignments
    * - Graduate Student Mentors
      - N first-years
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
-       |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
