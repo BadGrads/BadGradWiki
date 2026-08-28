@@ -28,24 +28,24 @@ Current Job Assignments
    * - Department Climate + DEI Advisers (2)
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
-   * - Graduate Assembly Delegate (0-1)
-     -
-   * - UAW2865 (GSI/GSR Union) Steward/Organizer (2+)
+   * - UAW2865 (GSI/GSR Union) Steward/Organizer (1+2)
      - |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__,
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__
-   * - Undergraduate Liaison (1)
-     - |SaahitMogan| `Saahit Mogan <https://github.com/saahitmog>`__
    * - Grad Student Admissions (1 + 3)
      - |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        Kenneth Lin
+   * - Undergraduate Liaison (1)
+     - |SaahitMogan| `Saahit Mogan <https://github.com/saahitmog>`__
+   * - Graduate Assembly Delegate (0-1)
+     -
 
 .. list-table:: Department Service
    :widths: 40 60
    :header-rows: 1
-   
+
    * - Prospective Visit Planning (1+3)
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
@@ -71,7 +71,7 @@ Current Job Assignments
 
    * - Role
      - People
-   * - Mentoring System Grandmentors (2)
+   * - Mentoring System Grandmentors (1)
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Graduate Student Mentors (N first-years)
@@ -115,44 +115,44 @@ Current Job Assignments
        |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__
-   * - Grad Student/Postdoc Research Seminar (GSPS) (2)
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
-       |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
-   * - ArXiV Coordinator(s) (1)
-     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
-   * - TAZTE / TAFT (1)
-     - |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
-   * - AstroCDS (?)
-     -
    * - Grad Snacks with Colloquium Speaker (2)
      - |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
        |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+   * - Grad Student/Postdoc Research Seminar (GSPS) (2)
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
+       |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
+   * - ArXiV Coordinator(s) (1)
+     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
+   * - TAFT (1)
+     - |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
    * - Queer Grads Coordinator/s (?)
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
-   
+   * - AstroCDS (?)
+     -
+
 .. list-table:: Fun
    :widths: 40 60
    :header-rows: 1
 
    * - Role
      - People
-   * - Ski Trip
-     - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
-       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Social Hour Coordinator (2)
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
+   * - Movie Night 
+     - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
+       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
+   * - Ski Trip
+     - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
+       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
    * - Sierra Conference
      -
    * - Board Game Night
      -
-   * - Movie Night (2)
-     - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
-       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
    
 ----
 
