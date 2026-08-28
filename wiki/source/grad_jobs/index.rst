@@ -92,7 +92,7 @@ Current Job Assignments
    * - Mentoring System Grandmentors
      - 1
      - |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__,
-     - |NatalieLebaron| `Natalie LeBaron <https://github.com/nlynn>`__
+       |NatalieLebaron| `Natalie LeBaron <https://github.com/nlynn>`__
    * - Graduate Student Mentors
      - N\ :sub:`1st-yrs`
      - |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__
