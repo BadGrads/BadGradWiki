@@ -1,6 +1,7 @@
 :show_git_badge: true
 
 .. _union_reps:
+
 ============================
 Union Representatives
 ============================
