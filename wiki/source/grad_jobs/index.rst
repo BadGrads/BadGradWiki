@@ -26,7 +26,7 @@ Current Job Assignments
      - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers (2)
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
    * - UAW2865 (GSI/GSR Union) Steward/Organizer (1+2)
      - |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__,
@@ -46,6 +46,8 @@ Current Job Assignments
    :widths: 40 60
    :header-rows: 1
 
+   * - Role
+     - People
    * - Prospective Visit Planning (1+3)
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
@@ -104,7 +106,7 @@ Current Job Assignments
    * - MPS Scholars Program (0-1)
      -
 
-.. list-table:: Talks, Teas & Get-Togethers
+.. list-table:: Talks, Teas, & Get-Togethers
    :widths: 40 60
    :header-rows: 1
 
@@ -127,7 +129,10 @@ Current Job Assignments
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
    * - TAFT (1)
      - |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
-   * - Queer Grads Coordinator/s (?)
+   * - Social Hour Coordinator (2)
+     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
+   * - Queer Grads Social Coordinator/s (?)
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
@@ -140,9 +145,6 @@ Current Job Assignments
 
    * - Role
      - People
-   * - Social Hour Coordinator (2)
-     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
-       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Movie Night 
      - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
