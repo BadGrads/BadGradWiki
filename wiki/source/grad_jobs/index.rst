@@ -177,6 +177,11 @@ Current Job Assignments
    * - Board Game Night
      -
      -
+   * - Cosmic Garden
+     - 2+2
+     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
+
 
 \* *total*, *range*, or *leads + members*
 
