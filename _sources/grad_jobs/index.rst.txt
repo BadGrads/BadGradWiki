@@ -15,71 +15,92 @@ Current Job Assignments
 -----------------------
 
 .. list-table:: Reps
-   :widths: 40 60
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
+     - #\*
      - People
    * - Small Council Reps
-     - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+     - 2
+     - |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Department Climate + DEI Advisers
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+     - 2
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
-   * - Graduate Assembly Delegate
-     -
    * - UAW2865 (GSI/GSR Union) Steward/Organizer
+     - 1+2
      - |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__,
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__
-   * - Undergraduate Liaison
-     - |SaahitMogan| `Saahit Mogan <https://github.com/saahitmog>`__
-   * - BADGrads Slack Admins
-     - Everyone!
    * - Grad Student Admissions
+     - 1+3
      - |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        Kenneth Lin
-
-.. list-table:: Social Justice
-   :widths: 40 60
-   :header-rows: 1
-
-   * - Role
-     - People
-   * - Racial Justice Bookclub
+   * - Undergraduate Liaison
+     - 1
+     - |SaahitMogan| `Saahit Mogan <https://github.com/saahitmog>`__
+   * - Graduate Assembly Delegate
+     - 0-1
      -
-   * - Respect is Part of Research Rep; Facilitators
-     - |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
-       |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
 
-.. list-table:: Outreach & Services
-   :widths: 40 60
+.. list-table:: Department Service
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
+     - #\*
      - People
    * - Prospective Visit Planning
+     - 1+3
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Ay 375 GSIs
+     - 1
      - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
-   * - MPS Scholars Program
+   * - BadGradWiki Wrangler
+     - 1+3
+     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
+       |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
+       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__,
+       |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
+   * - T-shirts
+     - 1
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+   * - Grad Cabinet Snacks
      -
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+   * - Respect is Part of Research Facilitators
+     - 2
+     - |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+       |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
+
+.. list-table:: Outreach
+   :widths: 35 8 57
+   :header-rows: 1
+
+   * - Role
+     - #\*
+     - People
    * - Mentoring System Grandmentors
+     - 1
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__
    * - Graduate Student Mentors
+     - N\ :sub:`1st-yrs`
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
-       |EmikoGardner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Outreach Coordinator
+     - ?+?
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
@@ -87,76 +108,89 @@ Current Job Assignments
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Astro Night Coordinator
+     - ?
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__
-   * - BadGradWiki Wrangler
-     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
-       |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
-       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__,
-       |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
-   * - SWPS Rep
-     -
-   * - Queer Grads Coordinator/s
-     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
-       |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
-       |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
    * - POWER Bay-Area Coordinators
+     - 2-4
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |EllaChevalier| `Ella Chevalier <https://github.com/ellachevalier>`__
+   * - SWPS Rep
+     - 0-1
+     -
+   * - MPS Scholars Program
+     - 0-1
+     -
 
-.. list-table:: Talks, Teas & Get-Togethers
-   :widths: 40 60
+.. list-table:: Talks, Teas, & Get-Togethers
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
+     - #\*
      - People
    * - Colloquium Projectionist
+     - 2-4
      - |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
        |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
        |BenJacobsonBell| `Ben Jacobson-Bell <https://github.com/bjacobell>`__,
        |RileyOwens| `Riley Owens <https://github.com/mrileyowens>`__
-   * - Grad Student/Postdoc Research Seminar (GSPS)
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
-       |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
-   * - ArXiV Coordinator(s)
-     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
-   * - TAZTE / TAFT
-     - |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
-   * - AstroCDS
-     -
    * - Grad Snacks with Colloquium Speaker
+     - 2
      - |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
        |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+   * - Grad Student/Postdoc Research Seminar (GSPS)
+     - 2
+     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
+       |HowardHuang| `Howard Huang <https://github.com/HowardHTHuang>`__
+   * - ArXiV Coordinator(s)
+     - 1
+     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__
+   * - TAFT
+     - 1
+     - |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
+   * - Social Hour Coordinator
+     - 2
+     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
+       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
+   * - Queer Grads Social Coordinator/s
+     - ?
+     - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
+       |CalebHarada| `Caleb Harada <https://github.com/CalebHarada>`__,
+       |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
+   * - AstroCDS
+     - ?
+     -
 
 .. list-table:: Fun
-   :widths: 40 60
+   :widths: 35 8 57
    :header-rows: 1
 
    * - Role
+     - #\*
      - People
-   * - T-shirts
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+   * - Movie Night
+     -
+     - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
+       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
    * - Ski Trip
+     -
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
-   * - Social Hour Coordinator
-     - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
-       |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
    * - Sierra Conference
+     -
      -
    * - Board Game Night
      -
-   * - Movie Night
-     - |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__,
-       |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__
-   * - Grad Cabinet Snacks
-     - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
+     -
+
+\* *total*, *range*, or *leads + members*
 
 ----
 
