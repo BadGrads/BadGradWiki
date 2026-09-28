@@ -94,7 +94,7 @@ Current Job Assignments
    * - BadGradWiki Wrangler
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
-       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__,
+       |NoahStiegler| `Noah Stiegler <https://github.com/NMStiegler>`__,
        |KiranEidan| `Kiran Eiden <https://github.com/KiranEiden>`__
    * - SWPS Rep
      -
@@ -132,7 +132,7 @@ Current Job Assignments
      - |TamojeetRoychowdhury| `Tamojeet Roychowdhury <https://github.com/tamojeetroychowdhury>`__,
        |AnastasiaWei| `Anastasia Wei <https://github.com/AnastasiaKWei>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
-       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+       |NoahStiegler| `Noah Stiegler <https://github.com/NMStiegler>`__
 
 .. list-table:: Fun
    :widths: 40 60
@@ -144,7 +144,7 @@ Current Job Assignments
      - |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__
    * - Ski Trip
      - |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
-       |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+       |NoahStiegler| `Noah Stiegler <https://github.com/NMStiegler>`__
    * - Social Hour Coordinator
      - |OliviaAspegren| `Olivia Aspegren <https://github.com/oaspegren>`__,
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__
