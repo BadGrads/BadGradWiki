@@ -51,4 +51,5 @@ For information about individual plans, the SHIP office has a nice spreadsheet a
 .. toctree::
    :hidden:
 
+   dentists
    ship_archive/index
