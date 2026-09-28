@@ -1,7 +1,7 @@
 .. |ElizaDiggins| image:: https://github.com/eliza-diggins.png
    :width: 22px
    :class: inline-avatar
-.. |EmikoGardiner| image:: https://github.com/emikocgardiner.png
+.. |EmikoGardiner| image:: https://github.com/emikogardiner.png
    :width: 22px
    :class: inline-avatar
 .. |AnastasiaWei| image:: https://github.com/AnastasiaKWei.png
