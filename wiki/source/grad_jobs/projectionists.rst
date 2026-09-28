@@ -66,7 +66,7 @@ After the Talk
 --------------
 
 Hit "Stop recording," sign out, and close the laptop. No further action is needed on your end for the recording. 
-Either Jason will retrieve it or he won't; usually colloquia are not posted online or distributed anywhere unless the 
-speaker specifically asks for the recording.
+Usually colloquia are not posted online or distributed anywhere unless the 
+speaker specifically asks for the recording. If this happens, Jason will handle it.
 
 Bring the laptop back to 501K or, if it's the first Thursday of the month, to one of the Astro Night coordinators.
