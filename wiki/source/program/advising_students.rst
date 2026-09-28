@@ -2,9 +2,9 @@
 
 .. _advising_students:
 
-=================
+=====================
 Advising Undergrads
-=================
+=====================
 
 .. admonition:: Needs Further Input
 
