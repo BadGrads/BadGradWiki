@@ -38,7 +38,7 @@ Current Job Assignments
      - 1+3
      - |DanielBrethauer| `Daniel Brethauer <https://github.com/dbrethauer>`__,
        |NatashaAbrams| `Natasha Abrams <https://github.com/nsabrams>`__,
-       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikogardiner>`__,
        |NatalieLeBaron| `Natalie LeBaron <https://github.com/nlynn>`__,
        |EliWiston| `Eli Wiston <https://github.com/eli-wiston>`__
    * - Undergraduate Liaison
@@ -68,7 +68,7 @@ Current Job Assignments
      - 1+3
      - |ElizaDiggins| `Eliza Diggins <https://github.com/eliza-diggins>`__,
        |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__,
-       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikogardiner>`__,
        |SaahitMogan| `Saahit Mogan <https://github.com/saahitmog>`__
    * - T-shirts
      - 1
@@ -192,7 +192,7 @@ Current Job Assignments
        |SavannahCary| `Savannah Cary <https://github.com/scary22>`__,
        |AnnaPusack| `Anna Pusack <https://github.com/Rocketpack23>`__,
        |KatieSharpe| `Katie Sharpe <https://github.com/katiesharpe>`__,
-       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikocgardiner>`__,
+       |EmikoGardiner| `Emiko Gardiner <https://github.com/emikogardiner>`__,
        |AsterWinkler| `Aster Winkler <https://github.com/AsterWinkler>`__
 
 
