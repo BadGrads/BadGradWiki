@@ -76,7 +76,7 @@ If you **do** have a car:
 * Campus parking requires a `separate university permit <https://pt.berkeley.edu/StudentParking>`__.
 * You can also park behind Campbell Hall when observing — email Shirlin for a permit.
 
-If you don't own a car but need to drive occasionally, short-term options include `Zipcar <https://www.zipcar.com/universities/the-university-of-california-berkeley>`__, `Rent a Relic <https://www.rentarelic.com/>`, and `Gig Car Share <https://gigcarshare.com/>`__.
+If you don't own a car but need to drive occasionally, short-term options include `Zipcar <https://www.zipcar.com/universities/the-university-of-california-berkeley>`__, `Rent a Relic <https://www.rentarelic.com/>`__, and `Gig Car Share <https://gigcarshare.com/>`__.
 
 Other ways to get around
 ------------------------
