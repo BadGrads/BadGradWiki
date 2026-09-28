@@ -13,15 +13,46 @@ For general University guidance, see `Transportation and Safety <https://student
 Bicycle
 -------
 
+Berkeley is one of the `best cities in the US to ride a bike <https://cityratings.peopleforbikes.org/cities/berkeley-ca>`__. Many grads use bikes as a 
+primary means of transportation and bike to the department daily. Be warned, Berkeley campus is on a hill, and Campbell in particular is towards the top
+of campus vertically speaking. Biking is much cheaper than driving.
+
+Students have found that often-times biking can be faster and more convenient than other methods of transportation within the city. Because of heavy motor vehicle traffic and the way Berkeley
+streets are designed to route that traffic along a few thoroughfares, bikes can often take shorter routes and avoid riding alongside cars or buses.
+Within the city (and the greater East Bay), there exists a network of `Bike Lanes and Bicycle Boulevards <https://bikeeastbay.org/wp-content/uploads/2023/05/Berkeley-bike-map-2026.pdf>`__ (streets meant for cyclists) which are well-paved and
+protected and can get you most places you need to go. This network connects well with campus. Bicycles are also allowed on buses (through the front rack), BART,
+ferries, and even the Space Sciences and Berkeley Lab shuttles, so it's easy to use public transit when you have your bike with you. 
+
+Once at the department, there are many places to keep a bike. Campbell Hall hosts an indoor bike room on the second floor which is secured behind a keycard access door.
+To use the room, email the incredible building coordinator Shirlin (shirlin@berkeley.edu). There is also ample bike rack space on the East side of the building and 
+outside every major building on campus, as well as many places downtown and in Berkeley, which makes getting to various departments (or restaurants) quick and easy. Some
+people choose to keep their bikes in their offices.
+
+.. warning::
+
+   Berkeley is a hotspot for bike theft. Buy and know how to use a solid bike lock, but know that locks only buy you time. Plenty of well-locked
+   bikes have been stolen over the years. Bike theft is a major issue in many cities across the US and unfortunately doesn't receive the attention 
+   or resources it should. You can register your bike on campus through `UCPD bicycle and mobility device registration <https://ucpd.berkeley.edu/services/bicycle-and-mobility-device-registration>`__; it helps with recovery if the bike is stolen.
+   You can also register your bike with `Project 529 <https://project529.com/garage>`__ which keeps a national registry to prevent bike theft.
+   Unfortunately, the best recommendation is not to park a bike in public near campus that you wouldn't want to be stolen. It's easier and cheaper 
+   to replace a commuter bike than something custom and expensive.
+
+Because Berkeley (especially the area around campus and Campbell in particular) is so hilly, many people opt to use an e-bike to get to the department.
+There are places to charge an e-bike in the bike room.
+
 There are lots of places to get a bike:
 
-* **Co-ops and community-oriented shops** — for example The Missing Link Bike Shop in Berkeley
 * **Used or secondhand** — Craigslist, buy-nothing groups, and people moving out of the area
 * **Traditional bike and outdoor retailers** — Mike's Bikes, REI, Sports Basement, and similar stores
 * **Big-box stores** — for example Target
+* **Coops?** - There used to be a cooperative called the Missing Link in Berkeley, but it has now closed. Not sure if there are alternatives.
 
-Learn local rules of the road, wear lights and visible gear at night, and use a solid lock and secure parking to reduce theft risk.
-You can also register your bike on campus through `UCPD bicycle and mobility device registration <https://ucpd.berkeley.edu/services/bicycle-and-mobility-device-registration>`__; it helps with recovery if the bike is stolen.
+Be careful when purchasing a bike second-hand as many stolen bikes are resold on websites like Craigslist. Be sure to ask about the
+history of the bicycle and from where the owner purchased it.
+
+Biking can also be dangerous. To reduce the risks of an accident, learn local rules of the road and proper bike handling, wear a helmet as well as lights and visible gear at night,
+and keep your bike well-maintained. It's always a good idea to have a small repair kit (for a tire puncture or loose bolt) with you when cycling.
+
 
 Public Transit
 --------------
@@ -45,7 +76,7 @@ If you **do** have a car:
 * Campus parking requires a `separate university permit <https://pt.berkeley.edu/StudentParking>`__.
 * You can also park behind Campbell Hall when observing — email Shirlin for a permit.
 
-If you don't own a car but need to drive occasionally, short-term options include `Zipcar <https://www.zipcar.com/universities/the-university-of-california-berkeley>`__ and `Gig Car Share <https://gigcarshare.com/>`__.
+If you don't own a car but need to drive occasionally, short-term options include `Zipcar <https://www.zipcar.com/universities/the-university-of-california-berkeley>`__, `Rent a Relic <https://www.rentarelic.com/>`, and `Gig Car Share <https://gigcarshare.com/>`__.
 
 Other ways to get around
 ------------------------
