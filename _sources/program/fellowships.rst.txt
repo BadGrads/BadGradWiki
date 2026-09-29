@@ -189,7 +189,7 @@ interested in HPC, large-scale simulations, or connections to national lab scien
         - ✅Awarded
         - -
       * - 2025/26
-        - |NoahSteigler| `Noah Steigler <https://github.com/NMStiegler>`__
+        - |NoahStiegler| `Noah Stiegler <https://github.com/NMStiegler>`__
         - ✅Awarded
         - -
 
