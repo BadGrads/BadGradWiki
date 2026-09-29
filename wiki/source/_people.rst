@@ -1,7 +1,7 @@
 .. |ElizaDiggins| image:: https://github.com/eliza-diggins.png
    :width: 22px
    :class: inline-avatar
-.. |EmikoGardner| image:: https://github.com/emikocgardiner.png
+.. |EmikoGardiner| image:: https://github.com/emikogardiner.png
    :width: 22px
    :class: inline-avatar
 .. |AnastasiaWei| image:: https://github.com/AnastasiaKWei.png
@@ -62,5 +62,11 @@
     :width: 22px
     :class: inline-avatar
 .. |KatieSharpe| image:: https://github.com/katiesharpe.png
+    :width: 22px
+    :class: inline-avatar
+.. |ZiruiZhang| image:: https://github.com/ZAKIRAM0.png
+    :width: 22px
+    :class: inline-avatar
+.. |AsterWinkler| image:: https://github.com/AsterWinkler.png
     :width: 22px
     :class: inline-avatar

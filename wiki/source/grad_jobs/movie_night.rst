@@ -1,6 +1,7 @@
 :show_git_badge: true
 
 .. _movie_night:
+
 =============================
 Movie Night Coordinator
 =============================

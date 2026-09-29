@@ -3,6 +3,7 @@
 .. include:: ../_people.rst
 
 .. _fellowships:
+
 ================================================
 Graduate Fellowships and Funding Opportunities
 ================================================

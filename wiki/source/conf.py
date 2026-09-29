@@ -86,19 +86,6 @@ html_favicon = "images/astro_dept_logo.png"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["./_static"]
 
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {
-    "python": ("https://docs.python.org/3/", None),
-    "numpy": ("https://numpy.org/doc/stable/", None),
-    "matplotlib": ("https://matplotlib.org/stable/", None),
-    "yt": ("https://yt-project.org/doc/", None),
-    "astropy": ("https://docs.astropy.org/en/stable/", None),
-    "sympy": ("https://docs.sympy.org/latest/", None),
-    "unyt": ("https://unyt.readthedocs.io/en/latest/", None),
-    "h5py": ("https://docs.h5py.org/en/latest/", None),
-    "scipy": ("https://docs.scipy.org/doc/scipy/", None),
-}
-
 napoleon_use_param = True
 napoleon_preprocess_types = True
 

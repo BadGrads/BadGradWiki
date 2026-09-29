@@ -1,6 +1,7 @@
 :show_git_badge: true
 
 .. _small_council_page:
+
 ==============================
 Small Council Representatives
 ==============================

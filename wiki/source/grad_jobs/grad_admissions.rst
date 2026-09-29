@@ -3,6 +3,7 @@
 .. include:: ../_people.rst
 
 .. _grad_admissions:
+
 =================================
 Graduate Admissions Committee
 =================================

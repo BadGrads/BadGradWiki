@@ -3,6 +3,7 @@
 .. include:: ../_people.rst
 
 .. _latex_accessibility:
+
 ===========================================
 Writing Accessible LaTex Documents
 ===========================================
