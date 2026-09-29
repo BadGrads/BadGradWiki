@@ -28,7 +28,7 @@
 .. |NatalieLeBaron| image:: https://github.com/nlynn.png
    :width: 22px
    :class: inline-avatar
-.. |NoahSteigler| image:: https://github.com/NMStiegler.png
+.. |NoahStiegler| image:: https://github.com/NMStiegler.png
    :width: 22px
    :class: inline-avatar
 .. |NatashaAbrams| image:: https://github.com/nsabrams.png
