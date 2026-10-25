@@ -1,0 +1,5 @@
+# Spell-checker config for the typos pre-commit hook.
+
+[default.extend-words]
+# American Astronomical Society
+AAS = "AAS"
