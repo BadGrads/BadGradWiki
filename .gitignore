@@ -173,5 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Claude stuff:
-.claude/
+# Binary handouts — keep PDFs local or host elsewhere; do not commit
+*.pdf
+
+# Claude
+.claude

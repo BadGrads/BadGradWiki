@@ -132,7 +132,6 @@ Additional Resources
    grad_life/index
    program/index
    science/index
-   contributing
 
 Indices and Search
 ==================

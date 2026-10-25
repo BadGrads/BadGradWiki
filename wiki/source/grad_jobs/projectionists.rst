@@ -1,6 +1,7 @@
 :show_git_badge: true
 
 .. _colloquium_projectionists:
+
 ==================================
 Colloquium Projectionists
 ==================================

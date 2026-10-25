@@ -1,6 +1,7 @@
 :show_git_badge: true
 
 .. _prospective_visit:
+
 ===============================================
 Prospective Graduate Student Visit Coordinator
 ===============================================
