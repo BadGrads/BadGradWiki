@@ -24,8 +24,8 @@ written by current and former students who have been through it.
       :link: finances
       :link-type: doc
 
-      Information on stipends, emergency funds, and other financial
-      support available to grad students.
+      Taxes, direct deposit, basic needs, and retirement basics
+      for grad students.
 
    .. grid-item-card:: Health Insurance
       :shadow: md

@@ -176,5 +176,7 @@ cython_debug/
 # Binary handouts — keep PDFs local or host elsewhere; do not commit
 *.pdf
 
-# Claude
+# Claude: settings, personal instructions and notes stay local
 .claude
+CLAUDE.local.md
+/TODO.md
